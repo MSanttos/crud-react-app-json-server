@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "adm",
+      "email": "adm@teste.com"
+    },
+    {
+      "id": 2,
+      "name": "user",
+      "email": "user@teste.com"
+    },
+    {
+      "name": "cliente",
+      "email": "cliente@teste.com",
+      "id": 3
+    }
+  ]
+}
